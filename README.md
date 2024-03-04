@@ -57,5 +57,7 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 ![Screenshot (485)](https://github.com/minato-sensei-09/Periodic-Table-Database/assets/101097078/2b3f0e7b-6135-4014-9f4f-49925b0a027c)
 
 ### Submission
+![Screenshot (486)](https://github.com/minato-sensei-09/Periodic-Table-Database/assets/101097078/8c7dc336-dc3d-4ef1-b536-7143b93c4c47)
+
 
 ## Created by Sufiyan
